@@ -10,3 +10,4 @@
 ## 更新履歴
 
 - 2022/9/23 first commit
+- 2022/9/23 fetch test
