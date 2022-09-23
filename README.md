@@ -11,3 +11,5 @@
 
 - 2022/9/23 first commit
 - 2022/9/24 swiper(with thumbs)作成中
+- 2022/9/23 fetch test
+- 2022/9/24 swiper(with thumbs)作成中
