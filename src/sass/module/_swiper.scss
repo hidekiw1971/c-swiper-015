@@ -1,0 +1,7 @@
+@use "global" as *;
+.swiper {
+  width: rem(500);
+  height: auto;
+  @include mq(md) {
+  }
+}
