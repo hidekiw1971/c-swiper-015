@@ -178,6 +178,11 @@ select::-ms-expand {
   position: relative;
 }
 
+.swiper-wrapper {
+  margin-bottom: 2px;
+  margin-bottom: 0.125rem;
+}
+
 .swiper-slide-thumb-active {
   opacity: 0.3;
 }

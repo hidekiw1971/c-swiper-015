@@ -10,6 +10,10 @@
   //   height: auto;
 }
 
+.swiper-wrapper {
+  margin-bottom: rem(2);
+}
+
 .swiper-slide-thumb-active {
   opacity: 0.3;
 }
