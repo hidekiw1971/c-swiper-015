@@ -173,9 +173,12 @@ select::-ms-expand {
   display: none;
 }
 
-.swiper {
-  width: 500px;
-  width: 31.25rem;
+.mySwiper-main {
+  width: 25%;
   height: auto;
+}
+
+.swiper-slide-thumb-active {
+  opacity: 0.3;
 }
 /*# sourceMappingURL=styles.css.map */

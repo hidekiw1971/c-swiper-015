@@ -1,7 +1,9 @@
 @use "global" as *;
-.swiper {
-  width: rem(500);
+.mySwiper-main {
+  width: 25%;
   height: auto;
-  @include mq(md) {
-  }
+}
+
+.swiper-slide-thumb-active {
+  opacity: 0.3;
 }
