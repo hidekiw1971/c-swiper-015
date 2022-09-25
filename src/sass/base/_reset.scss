@@ -34,7 +34,7 @@ html {
 /* Set core body defaults */
 body {
   min-height: 100vh;
-  text-rendering: optimizeSpeed;
+  // text-rendering: optimizeSpeed;
   line-height: 1.5;
 }
 
@@ -73,7 +73,6 @@ select {
 img:not([alt]) {
   filter: blur(10px);
 }
-
 
 /* フォームリセット */
 input,
