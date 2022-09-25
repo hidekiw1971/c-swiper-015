@@ -3,8 +3,8 @@ jQuery(function ($) {
   // swiper
   var mySwiper_thumb = new Swiper(".swiper-thumb", {
     loop: true,
-    spaceBetween: 10,
-    slidesPerView: 4,
+    spaceBetween: 2,
+    slidesPerView: 5,
     freeMode: true,
     watchSlidesProgress: true,
   });
