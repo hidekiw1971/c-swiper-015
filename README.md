@@ -16,3 +16,4 @@
 - 2022/9/25 swiper(with thumbs)連動できた。
 - 2022/9/25 swiper(with thumbs)navigation も付いた。
 - 2022/9/26 装飾（box-shadow）を設定中
+- 2022/9/27 'swiper-button-disabled'前のスライド / 次のスライドがないときに付くクラス名の設定できた。

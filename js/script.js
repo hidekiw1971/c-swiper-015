@@ -9,16 +9,16 @@ jQuery(function ($) {
     watchSlidesProgress: true,
   });
   var mySwiper_main = new Swiper(".mySwiper-main", {
-    loop: true,
+    // loop: true,
     spaceBetween: 10,
     navigation: {
       nextEl: ".swiper-button-next",
       prevEl: ".swiper-button-prev",
     },
-    autoplay: {
-      delay: 2500,
-      disableOnInteraction: false,
-    },
+    // autoplay: {
+    //   delay: 2500,
+    //   disableOnInteraction: false,
+    // },
     thumbs: {
       swiper: mySwiper_thumb,
     },
